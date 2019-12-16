@@ -1,24 +1,6 @@
-# README
+This application is a Trello Clone. It allows users to create accounts as contributors to different boards. It also allows the user to create boards and lists. Users can drag/drop lists and cards. 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Ruby on Rails
+JavaScript
+jQuery
+AJAX
